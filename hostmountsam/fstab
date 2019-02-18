@@ -1,0 +1,4 @@
+# /etc/fstab
+# Exemple per muntar tots els homes automàticament via /etc/fstab en lloc de via pam_mount
+
+nfsserver:/var/tmp/home /tmp/home nfs4 defaults  0 0 
