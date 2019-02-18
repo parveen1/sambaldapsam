@@ -156,11 +156,11 @@ drwxr-xr-x+ 2 anna alumnes 0 Feb 17 23:36 anna
 
 ### Dockerhub repo. links
 
-[Docker Parveen ldap](https://hub.docker.com/r/parveen1992/ldapsamba)
+[Docker Parveen ldapsamba](https://hub.docker.com/r/parveen1992/ldapsamba)
 
-[Docker parveen sshserver](https://hub.docker.com/r/parveen1992/sambasam)
+[Docker parveen sambasam](https://hub.docker.com/r/parveen1992/sambasam)
 
-[Docker Parveen hostmountssh](https://hub.docker.com/r/parveen1992/hostmountsam)
+[Docker Parveen hostmountsam](https://hub.docker.com/r/parveen1992/hostmountsam)
 
 ### All to start
 
