@@ -165,9 +165,9 @@ drwxr-xr-x+ 2 anna alumnes 0 Feb 17 23:36 anna
 ### All to start
 
 ```
-docker run --rm --network sambanet --name ldap --hostname ldap -d parveeen1992/ldapsamba
+docker run --rm --network sambanet --name ldap --hostname ldap -d parveen1992/ldapsamba
 docker run --rm --network sambanet --name sambasam --hostname sambasam -it parveen1992/sambasam
-docker run --rm --network sambanet --privileged --name client  -hostname client -it parveen1992/hostmountsam
+docker run --rm --network sambanet --privileged --name client  --hostname client -it parveen1992/hostmountsam
 ```
 
 ### Check this order after strat to verify
